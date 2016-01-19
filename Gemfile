@@ -17,5 +17,6 @@ group :development, :test do
   gem 'sqlite3'
   gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
   gem 'paperclip', '~> 4.3', '>= 4.3.2'
+  gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 end
 
